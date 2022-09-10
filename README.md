@@ -60,6 +60,8 @@ The percentage of:-
 6.SGD(stochastic gradient descent)= 68.85%
 
 7.Gradient Boosting= 82.24%
+
+
 Conclusion:-
     Out of seven machine learning algorithms we applied, 
     We conclude that Gaussian NB classifier performs the best on this dataset with 83.61% Accuracy
